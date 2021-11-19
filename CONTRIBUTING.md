@@ -111,4 +111,4 @@ that the PR will be closed.
 
 ## Reporting issues
 
-Please open an issue if you would like to discuss anything that could be improved or have suggestions.
+Please open an issue if you would like to discuss anything that could be improved or have suggestions. This is a test.
